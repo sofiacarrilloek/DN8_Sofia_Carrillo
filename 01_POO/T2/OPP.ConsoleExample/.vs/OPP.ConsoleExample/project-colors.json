@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "55f4649e-57c4-474b-a6cd-77f8a7f33395": {
+      "ProjectGuid": "55f4649e-57c4-474b-a6cd-77f8a7f33395",
+      "DisplayName": "OPP.ConsoleExample",
+      "ColorIndex": 0
+    },
+    "ba4f715d-c528-47f0-b394-e3b2974175cb": {
+      "ProjectGuid": "ba4f715d-c528-47f0-b394-e3b2974175cb",
+      "DisplayName": "AudioManager",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
