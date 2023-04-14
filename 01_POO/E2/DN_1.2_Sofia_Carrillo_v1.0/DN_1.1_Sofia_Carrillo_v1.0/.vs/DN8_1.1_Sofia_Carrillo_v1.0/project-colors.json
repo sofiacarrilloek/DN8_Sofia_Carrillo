@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e35372ee-a44a-403f-aee6-9a058ab3698c": {
+      "ProjectGuid": "e35372ee-a44a-403f-aee6-9a058ab3698c",
+      "DisplayName": "DN_1.1_Sofia_Carrillo_v1.0",
+      "ColorIndex": 0
+    },
+    "0e93438a-6147-48c4-ad94-2fc6b245db48": {
+      "ProjectGuid": "0e93438a-6147-48c4-ad94-2fc6b245db48",
+      "DisplayName": "AudioManager",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
