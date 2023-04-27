@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\01_POO\\T1",
     "\\02_WebDevelopment",
-    "\\02_WebDevelopment\\T1\\Bootstrap"
+    "\\02_WebDevelopment\\T3\\GymManager.Web"
   ],
-  "SelectedNode": "\\02_WebDevelopment\\T2",
+  "SelectedNode": "\\02_WebDevelopment\\T3",
   "PreviewInSolutionExplorer": false
 }
