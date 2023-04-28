@@ -1,0 +1,32 @@
+C:\Users\sofia\source\repos\DataTypes\DataTypes\bin\Debug\net5.0\DataTypes.exe
+C:\Users\sofia\source\repos\DataTypes\DataTypes\bin\Debug\net5.0\DataTypes.deps.json
+C:\Users\sofia\source\repos\DataTypes\DataTypes\bin\Debug\net5.0\DataTypes.runtimeconfig.json
+C:\Users\sofia\source\repos\DataTypes\DataTypes\bin\Debug\net5.0\DataTypes.runtimeconfig.dev.json
+C:\Users\sofia\source\repos\DataTypes\DataTypes\bin\Debug\net5.0\DataTypes.dll
+C:\Users\sofia\source\repos\DataTypes\DataTypes\bin\Debug\net5.0\ref\DataTypes.dll
+C:\Users\sofia\source\repos\DataTypes\DataTypes\bin\Debug\net5.0\DataTypes.pdb
+C:\Users\sofia\source\repos\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.csproj.AssemblyReference.cache
+C:\Users\sofia\source\repos\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofia\source\repos\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.AssemblyInfoInputs.cache
+C:\Users\sofia\source\repos\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.AssemblyInfo.cs
+C:\Users\sofia\source\repos\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\sofia\source\repos\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.dll
+C:\Users\sofia\source\repos\DataTypes\DataTypes\obj\Debug\net5.0\ref\DataTypes.dll
+C:\Users\sofia\source\repos\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.pdb
+C:\Users\sofia\source\repos\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.genruntimeconfig.cache
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\T5\DN_2.3.3.5_Sofia_Carrillo_v1.0\DataTypes\DataTypes\bin\Debug\net5.0\DataTypes.exe
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\T5\DN_2.3.3.5_Sofia_Carrillo_v1.0\DataTypes\DataTypes\bin\Debug\net5.0\DataTypes.deps.json
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\T5\DN_2.3.3.5_Sofia_Carrillo_v1.0\DataTypes\DataTypes\bin\Debug\net5.0\DataTypes.runtimeconfig.json
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\T5\DN_2.3.3.5_Sofia_Carrillo_v1.0\DataTypes\DataTypes\bin\Debug\net5.0\DataTypes.runtimeconfig.dev.json
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\T5\DN_2.3.3.5_Sofia_Carrillo_v1.0\DataTypes\DataTypes\bin\Debug\net5.0\DataTypes.dll
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\T5\DN_2.3.3.5_Sofia_Carrillo_v1.0\DataTypes\DataTypes\bin\Debug\net5.0\ref\DataTypes.dll
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\T5\DN_2.3.3.5_Sofia_Carrillo_v1.0\DataTypes\DataTypes\bin\Debug\net5.0\DataTypes.pdb
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\T5\DN_2.3.3.5_Sofia_Carrillo_v1.0\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.csproj.AssemblyReference.cache
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\T5\DN_2.3.3.5_Sofia_Carrillo_v1.0\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\T5\DN_2.3.3.5_Sofia_Carrillo_v1.0\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.AssemblyInfoInputs.cache
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\T5\DN_2.3.3.5_Sofia_Carrillo_v1.0\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.AssemblyInfo.cs
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\T5\DN_2.3.3.5_Sofia_Carrillo_v1.0\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.csproj.CoreCompileInputs.cache
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\T5\DN_2.3.3.5_Sofia_Carrillo_v1.0\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.dll
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\T5\DN_2.3.3.5_Sofia_Carrillo_v1.0\DataTypes\DataTypes\obj\Debug\net5.0\ref\DataTypes.dll
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\T5\DN_2.3.3.5_Sofia_Carrillo_v1.0\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.pdb
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\T5\DN_2.3.3.5_Sofia_Carrillo_v1.0\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.genruntimeconfig.cache
