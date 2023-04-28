@@ -1,0 +1,71 @@
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.exe
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.deps.json
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.runtimeconfig.json
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.runtimeconfig.dev.json
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.dll
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\bin\Debug\net5.0\ref\GymManager.Web.dll
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.pdb
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.csproj.AssemblyReference.cache
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.AssemblyInfoInputs.cache
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.AssemblyInfo.cs
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.csproj.CoreCompileInputs.cache
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\obj\Debug\net5.0\scopedcss\bundle\GymManager.Web.styles.css
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\obj\Debug\net5.0\staticwebassets\GymManager.Web.StaticWebAssets.Manifest.cache
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.RazorTargetAssemblyInfo.cache
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.dll
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\obj\Debug\net5.0\ref\GymManager.Web.dll
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.pdb
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.genruntimeconfig.cache
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.Views.dll
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.Views.pdb
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.csproj.CopyComplete
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.RazorAssemblyInfo.cache
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.RazorAssemblyInfo.cs
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.TagHelpers.input.cache
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.TagHelpers.output.cache
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.RazorCoreGenerate.cache
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\obj\Debug\net5.0\Razor\Views\Members\Index.cshtml.g.cs
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.RazorTargetAssemblyInfo.cs
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.Views.pdb
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\obj\Debug\net5.0\Razor\Views\Attendance\MemberIn.cshtml.g.cs
+C:\Users\sofia\source\repos\GymManager.Web\GymManager.Web\obj\Debug\net5.0\Razor\Views\Attendance\MemberOut.cshtml.g.cs
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\bin\Debug\net5.0\appsettings.Development.json
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\bin\Debug\net5.0\appsettings.json
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.exe
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.deps.json
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.runtimeconfig.json
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.runtimeconfig.dev.json
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.dll
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\bin\Debug\net5.0\ref\GymManager.Web.dll
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.pdb
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.Views.dll
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\bin\Debug\net5.0\GymManager.Web.Views.pdb
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.csproj.AssemblyReference.cache
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.AssemblyInfoInputs.cache
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.AssemblyInfo.cs
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.csproj.CoreCompileInputs.cache
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.RazorAssemblyInfo.cache
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.RazorAssemblyInfo.cs
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\obj\Debug\net5.0\staticwebassets\GymManager.Web.StaticWebAssets.Manifest.cache
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\obj\Debug\net5.0\staticwebassets\GymManager.Web.StaticWebAssets.xml
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\obj\Debug\net5.0\scopedcss\bundle\GymManager.Web.styles.css
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.TagHelpers.input.cache
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.TagHelpers.output.cache
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.RazorCoreGenerate.cache
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\obj\Debug\net5.0\Razor\Views\Attendance\MemberIn.cshtml.g.cs
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\obj\Debug\net5.0\Razor\Views\Attendance\MemberOut.cshtml.g.cs
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\obj\Debug\net5.0\Razor\Views\Members\Index.cshtml.g.cs
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.RazorTargetAssemblyInfo.cache
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.RazorTargetAssemblyInfo.cs
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.Views.pdb
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.dll
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\obj\Debug\net5.0\ref\GymManager.Web.dll
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.pdb
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.genruntimeconfig.cache
+D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\02_WebDevelopment\E2\DN_2.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.csproj.CopyComplete
