@@ -2,8 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\02_WebDevelopment",
-    "\\02_WebDevelopment\\T5"
+    "\\02_WebDevelopment\\E3",
+    "\\02_WebDevelopment\\E3\\DataTypes",
+    "\\02_WebDevelopment\\E3\\DataTypes\\DataTypesCollections",
+    "\\02_WebDevelopment\\E4",
+    "\\02_WebDevelopment\\E4\\GymManager.Web"
   ],
-  "SelectedNode": "\\02_WebDevelopment\\T5",
+  "SelectedNode": "\\02_WebDevelopment\\E3\\DataTypes\\DataTypesCollections\\Customer.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e62940d3-2486-4fb0-bb81-5320d3e7cee7": {
+      "ProjectGuid": "e62940d3-2486-4fb0-bb81-5320d3e7cee7",
+      "DisplayName": "DataTypes",
+      "ColorIndex": 0
+    },
+    "8eff52b5-bd54-44b3-8cd2-e10b54dd6570": {
+      "ProjectGuid": "8eff52b5-bd54-44b3-8cd2-e10b54dd6570",
+      "DisplayName": "DataTypes.Web",
+      "ColorIndex": 1
+    },
+    "8ec10da7-6295-42d6-9e58-8465fae844f5": {
+      "ProjectGuid": "8ec10da7-6295-42d6-9e58-8465fae844f5",
+      "DisplayName": "DataTypesCollections",
+      "ColorIndex": 2
+    },
+    "28d13095-f052-4692-9361-73a7fdc3d6a7": {
+      "ProjectGuid": "28d13095-f052-4692-9361-73a7fdc3d6a7",
+      "DisplayName": "DataTypesController.Web",
+      "ColorIndex": 3
+    },
+    "0dfb636a-8ea5-4da7-a5d8-41df55260874": {
+      "ProjectGuid": "0dfb636a-8ea5-4da7-a5d8-41df55260874",
+      "DisplayName": "DataTypeCollection",
+      "ColorIndex": 4
+    },
+    "6676f06e-805b-484f-b40b-2668df8c9c28": {
+      "ProjectGuid": "6676f06e-805b-484f-b40b-2668df8c9c28",
+      "DisplayName": "DataTypeCollections.Web",
+      "ColorIndex": 5
+    },
+    "41561635-629d-47cc-b7c8-67ee8ac83814": {
+      "ProjectGuid": "41561635-629d-47cc-b7c8-67ee8ac83814",
+      "DisplayName": "DataCollections.Web",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

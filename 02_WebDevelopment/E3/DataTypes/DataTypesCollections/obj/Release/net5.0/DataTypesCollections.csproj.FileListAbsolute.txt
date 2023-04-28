@@ -1,0 +1,16 @@
+C:\Users\sofia\source\repos\DataTypes\DataTypesCollections\bin\Release\net5.0\DataTypesCollections.exe
+C:\Users\sofia\source\repos\DataTypes\DataTypesCollections\bin\Release\net5.0\DataTypesCollections.deps.json
+C:\Users\sofia\source\repos\DataTypes\DataTypesCollections\bin\Release\net5.0\DataTypesCollections.runtimeconfig.json
+C:\Users\sofia\source\repos\DataTypes\DataTypesCollections\bin\Release\net5.0\DataTypesCollections.runtimeconfig.dev.json
+C:\Users\sofia\source\repos\DataTypes\DataTypesCollections\bin\Release\net5.0\DataTypesCollections.dll
+C:\Users\sofia\source\repos\DataTypes\DataTypesCollections\bin\Release\net5.0\ref\DataTypesCollections.dll
+C:\Users\sofia\source\repos\DataTypes\DataTypesCollections\bin\Release\net5.0\DataTypesCollections.pdb
+C:\Users\sofia\source\repos\DataTypes\DataTypesCollections\obj\Release\net5.0\DataTypesCollections.csproj.AssemblyReference.cache
+C:\Users\sofia\source\repos\DataTypes\DataTypesCollections\obj\Release\net5.0\DataTypesCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofia\source\repos\DataTypes\DataTypesCollections\obj\Release\net5.0\DataTypesCollections.AssemblyInfoInputs.cache
+C:\Users\sofia\source\repos\DataTypes\DataTypesCollections\obj\Release\net5.0\DataTypesCollections.AssemblyInfo.cs
+C:\Users\sofia\source\repos\DataTypes\DataTypesCollections\obj\Release\net5.0\DataTypesCollections.csproj.CoreCompileInputs.cache
+C:\Users\sofia\source\repos\DataTypes\DataTypesCollections\obj\Release\net5.0\DataTypesCollections.dll
+C:\Users\sofia\source\repos\DataTypes\DataTypesCollections\obj\Release\net5.0\ref\DataTypesCollections.dll
+C:\Users\sofia\source\repos\DataTypes\DataTypesCollections\obj\Release\net5.0\DataTypesCollections.pdb
+C:\Users\sofia\source\repos\DataTypes\DataTypesCollections\obj\Release\net5.0\DataTypesCollections.genruntimeconfig.cache
