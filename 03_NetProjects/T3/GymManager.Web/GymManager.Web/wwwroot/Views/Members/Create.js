@@ -3,5 +3,4 @@
 
     $("#BirthDay").datepicker({ "dateFormat": "dd-mm-yy" });
 
-   
 }());

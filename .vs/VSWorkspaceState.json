@@ -1,8 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\03_NetProjects"
+    "\\03_NetProjects",
+    "\\03_NetProjects\\T3",
+    "\\03_NetProjects\\T3\\GymManager.Web",
+    "\\03_NetProjects\\T3\\GymManager.Web\\GymManager.Web",
+    "\\03_NetProjects\\T3\\GymManager.Web\\GymManager.Web\\Controllers"
   ],
-  "SelectedNode": "\\03_NetProjects\\T2",
+  "SelectedNode": "\\03_NetProjects\\T3\\GymManager.Web\\GymManager.Web\\Controllers\\MembersController.cs",
   "PreviewInSolutionExplorer": false
 }

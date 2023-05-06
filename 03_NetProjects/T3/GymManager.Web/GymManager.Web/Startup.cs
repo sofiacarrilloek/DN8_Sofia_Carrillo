@@ -1,3 +1,4 @@
+//tutorial 3
 using GymManager.ApplicationServices.Members;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
