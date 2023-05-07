@@ -843,5 +843,3 @@ D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T4\GymManager.Web\GymManager.Web
 D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T4\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.pdb
 D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T4\GymManager.Web\GymManager.Web\obj\Debug\net5.0\GymManager.Web.genruntimeconfig.cache
 D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T4\GymManager.Web\GymManager.Web\obj\Debug\net5.0\Razor\Views\Members\Edit.cshtml.g.cs
-D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T4\GymManager.Web\GymManager.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\AppMenu\Default.cshtml.g.cs
-D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T4\GymManager.Web\GymManager.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\AppMenu\_UserMenuItem.cshtml.g.cs
