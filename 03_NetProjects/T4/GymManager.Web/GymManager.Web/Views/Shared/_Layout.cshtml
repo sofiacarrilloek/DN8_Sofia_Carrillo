@@ -1,6 +1,7 @@
-﻿<!doctype html>
+﻿@using GymManager.Web.Views.Shared.Components.AppMenu;
+<!doctype html>
 <html lang="en" class="h-100">
-     
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -14,7 +15,7 @@
 
 
     <!-- Bootstrap core CSS -->
-    <link rel="stylesheet" href="../Bootstrap/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="../Bootstrap/css/bootstrap.min.css" />
     <!-- Favicons -->
 
     <meta name="theme-color" content="#7952b3">
@@ -27,7 +28,6 @@
             -webkit-user-select: none;
             -moz-user-select: none;
             user-select: none;
-         
         }
 
         @@media (min-width: 768px) {
@@ -49,28 +49,18 @@
 
     <header>
         <!-- Fixed navbar class="border border-secondary border-3 rounded-circle -->
-        <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-secondary font-monospace" >
-            <div class="container-fluid" >
+        <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-secondary font-monospace">
+            <div class="container-fluid">
 
-               <img class="navbar-brand rounded-circle" src="../Bootstrap/Images/GymLogo.jpg"  width="40px" height="50px" />
+                <img class="navbar-brand rounded-circle" src="../Bootstrap/Images/GymLogo.jpg" width="40px" height="50px" />
 
-                <a class="navbar-brand" href="#" >Gym Manager</a>
+                <a class="navbar-brand" href="#">Gym Manager</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
-                    <ul class="navbar-nav me-auto mb-2 mb-md-0">
-                        <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="#">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Link</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link disabled">Disabled</a>
-                        </li>
-                    </ul>
-                  
+                    @await Component.InvokeAsync(typeof(AppMenuViewComponent), new { currentPageName = ViewBag.CurrentPageName })
+
                     @RenderSection("HeaderRight", false)
                 </div>
             </div>
@@ -79,19 +69,19 @@
 
     <!-- Begin page content -->
     <main class="flex-shrink-0">
-      
+
         @RenderBody()
 
     </main>
-    
- 
+
+
     <footer class="footer mt-auto py-3 bg-light">
         <div class="container">
             <span class="text-muted">Place sticky footer content here.</span>
         </div>
     </footer>
 
-    <script src= "Bootstrap/js/bootstrap.bundle.js"></script>
-     @RenderSection("Scripts", false)
+    <script src="Bootstrap/js/bootstrap.bundle.js"></script>
+    @RenderSection("Scripts", false)
 </body>
 </html>

@@ -1,5 +1,6 @@
-//tutorial 4
+//tutorial 5
 using GymManager.ApplicationServices.Members;
+using GymManager.ApplicationServices.Navigation;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
@@ -17,6 +18,7 @@ namespace GymManager.Web
 
             services.AddTransient<IMembersAppServices, MembersAppServices>();
 
+            services.AddTransient<IMenuAppService, MenuAppService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
