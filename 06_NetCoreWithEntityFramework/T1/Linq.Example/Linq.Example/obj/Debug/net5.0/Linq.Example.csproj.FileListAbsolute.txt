@@ -1,0 +1,16 @@
+C:\Users\sofia\source\repos\Linq.Example\Linq.Example\bin\Debug\net5.0\Linq.Example.exe
+C:\Users\sofia\source\repos\Linq.Example\Linq.Example\bin\Debug\net5.0\Linq.Example.deps.json
+C:\Users\sofia\source\repos\Linq.Example\Linq.Example\bin\Debug\net5.0\Linq.Example.runtimeconfig.json
+C:\Users\sofia\source\repos\Linq.Example\Linq.Example\bin\Debug\net5.0\Linq.Example.runtimeconfig.dev.json
+C:\Users\sofia\source\repos\Linq.Example\Linq.Example\bin\Debug\net5.0\Linq.Example.dll
+C:\Users\sofia\source\repos\Linq.Example\Linq.Example\bin\Debug\net5.0\ref\Linq.Example.dll
+C:\Users\sofia\source\repos\Linq.Example\Linq.Example\bin\Debug\net5.0\Linq.Example.pdb
+C:\Users\sofia\source\repos\Linq.Example\Linq.Example\obj\Debug\net5.0\Linq.Example.csproj.AssemblyReference.cache
+C:\Users\sofia\source\repos\Linq.Example\Linq.Example\obj\Debug\net5.0\Linq.Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofia\source\repos\Linq.Example\Linq.Example\obj\Debug\net5.0\Linq.Example.AssemblyInfoInputs.cache
+C:\Users\sofia\source\repos\Linq.Example\Linq.Example\obj\Debug\net5.0\Linq.Example.AssemblyInfo.cs
+C:\Users\sofia\source\repos\Linq.Example\Linq.Example\obj\Debug\net5.0\Linq.Example.csproj.CoreCompileInputs.cache
+C:\Users\sofia\source\repos\Linq.Example\Linq.Example\obj\Debug\net5.0\Linq.Example.dll
+C:\Users\sofia\source\repos\Linq.Example\Linq.Example\obj\Debug\net5.0\ref\Linq.Example.dll
+C:\Users\sofia\source\repos\Linq.Example\Linq.Example\obj\Debug\net5.0\Linq.Example.pdb
+C:\Users\sofia\source\repos\Linq.Example\Linq.Example\obj\Debug\net5.0\Linq.Example.genruntimeconfig.cache
