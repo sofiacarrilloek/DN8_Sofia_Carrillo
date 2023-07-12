@@ -1,13 +1,18 @@
+//Ejercicio 1 - en progreso
 using GymManager.ApplicationServices.Members;
+using GymManager.ApplicationServices.Navigation;
+using GymManager.DataAccess;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+
+
+
 
 namespace GymManager.Web
 {
@@ -15,12 +20,30 @@ namespace GymManager.Web
     {
         // This method gets called by the runtime. Use this method to add services to the container.
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
+
+        public Startup(IConfiguration configuration)
+        {
+            Configuration = configuration;
+        }
+
+        public IConfiguration Configuration { get; }
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllersWithViews();
+            string connectionString = Configuration.GetConnectionString("Default");
+
+            services.AddDbContext<GymManagerContext>(options =>
+                options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
+
+            services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+                 .AddEntityFrameworkStores<GymManagerContext>();
+
+            services.ConfigureApplicationCookie(options => options.LoginPath = "/Account/LogIn");
+
+            services.AddControllersWithViews().AddRazorRuntimeCompilation();
 
             services.AddTransient<IMembersAppServices, MembersAppServices>();
-            
+
+            services.AddTransient<IMenuAppService, MenuAppService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -32,11 +55,10 @@ namespace GymManager.Web
             }
 
             app.UseRouting();
-
             app.UseStaticFiles();
 
-            
-
+            app.UseAuthentication();
+            app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
@@ -44,7 +66,6 @@ namespace GymManager.Web
 
             });
 
-            
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute("default", "{controller=AttendanceController}/{action=MemberOut}/{id?}");

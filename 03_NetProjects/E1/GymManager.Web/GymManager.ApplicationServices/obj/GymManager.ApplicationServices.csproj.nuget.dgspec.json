@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E1\\GymManager.Web\\GymManager.ApplicationServices\\GymManager.ApplicationServices.csproj": {}
+    "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.ApplicationServices\\GymManager.ApplicationServices.csproj": {}
   },
   "projects": {
-    "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E1\\GymManager.Web\\GymManager.ApplicationServices\\GymManager.ApplicationServices.csproj": {
+    "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.ApplicationServices\\GymManager.ApplicationServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E1\\GymManager.Web\\GymManager.ApplicationServices\\GymManager.ApplicationServices.csproj",
+        "projectUniqueName": "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.ApplicationServices\\GymManager.ApplicationServices.csproj",
         "projectName": "GymManager.ApplicationServices",
-        "projectPath": "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E1\\GymManager.Web\\GymManager.ApplicationServices\\GymManager.ApplicationServices.csproj",
+        "projectPath": "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.ApplicationServices\\GymManager.ApplicationServices.csproj",
         "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-        "outputPath": "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E1\\GymManager.Web\\GymManager.ApplicationServices\\obj\\",
+        "outputPath": "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.ApplicationServices\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E1\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj": {
-                "projectPath": "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E1\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj"
+              "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj": {
+                "projectPath": "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E1\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj": {
+    "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E1\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj",
+        "projectUniqueName": "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj",
         "projectName": "GymManager.Core",
-        "projectPath": "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E1\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj",
+        "projectPath": "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj",
         "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-        "outputPath": "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E1\\GymManager.Web\\GymManager.Core\\obj\\",
+        "outputPath": "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -97,6 +97,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

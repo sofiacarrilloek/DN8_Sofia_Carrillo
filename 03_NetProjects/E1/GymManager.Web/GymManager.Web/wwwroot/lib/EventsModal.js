@@ -1,5 +1,7 @@
 ﻿(function () {
-    document.getElementById("SubmitButton").addEventListener("click", function () {
+
+
+    document.getElementById("SubmitButton").addEventListener("click", function() {
 
         modalM();
 
@@ -28,6 +30,5 @@
 
         setTimeout(CloseModal, 3000);
     }
-   
-}());
 
+}());

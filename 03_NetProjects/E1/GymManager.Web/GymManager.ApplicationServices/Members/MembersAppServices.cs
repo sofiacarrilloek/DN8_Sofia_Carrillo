@@ -9,71 +9,46 @@ namespace GymManager.ApplicationServices.Members
 {
     public class MembersAppServices : IMembersAppServices
     {
+        private static List<Member> Members = new List<Member>();
+
+        public int AddMember(Member member)
+        {
+            member.Id = new Random().Next();
+
+            Members.Add(member);
+
+            return member.Id;
+        }
+
+        public void DeleteMember(int memberId)
+        {
+            var m = Members.Where(x => x.Id == memberId).FirstOrDefault();
+            Members.Remove(m);
+        }
+
+        public void EditMember(Member member)
+        {
+            var m = Members.Where(x => x.Id == member.Id).FirstOrDefault();
+            m.AllowNewsletter = member.AllowNewsletter;
+            m.BirthDay = member.BirthDay;
+            m.CityId = member.CityId;
+            m.Email = member.Email;
+            m.LastName = member.LastName;
+            m.Name = member.Name;
+
+        }
+
+        public Member GetMember(int memberId)
+        {
+            var m = Members.Where(x => x.Id == memberId).FirstOrDefault();
+            return m;
+        }
+
         public List<Member> GetMembers()
         {
-            List<Member> members = new List<Member>();
 
-            members.Add(new Member
-            {
-                Name = "Sofia",
-                LastName = "Carrillo",
-                BirthDay = new DateTime(2001, 4, 22),
-                AllowNewsletter = true,
-                CityId = 1,
-                Email = "sofi@gmail.com"
-            });
-
-            members.Add(new Member
-            {
-                Name = "Dennis",
-                LastName = "Yam",
-                BirthDay = new DateTime(2001, 10, 12),
-                AllowNewsletter = true,
-                CityId = 2,
-                Email = "dennis@gmail.com"
-            });
-
-            members.Add(new Member
-            {
-                Name = "Ariatne",
-                LastName = "Moo",
-                BirthDay = new DateTime(2001, 1, 18),
-                AllowNewsletter = true,
-                CityId = 3,
-                Email = "ari@gmail.com"
-            });
-
-            members.Add(new Member
-            {
-                Name = "Cesar",
-                LastName = "Carrillo",
-                BirthDay = new DateTime(2003, 2, 8),
-                AllowNewsletter = true,
-                CityId = 4,
-                Email = "cesar@gmail.com"
-            });
-
-            members.Add(new Member
-            {
-                Name = "Maria",
-                LastName = "Ek",
-                BirthDay = new DateTime(2000, 10, 12),
-                AllowNewsletter = true,
-                CityId = 5,
-                Email = "maria@gmail.com"
-            });
-
-            members.Add(new Member
-            {
-                Name = "Angel",
-                LastName = "Moo",
-                BirthDay = new DateTime(2001, 12, 18),
-                AllowNewsletter = true,
-                CityId = 6,
-                Email = "angel@gmail.com"
-            });
-
-            return members;
+            return Members;
         }
+
     }
 }
