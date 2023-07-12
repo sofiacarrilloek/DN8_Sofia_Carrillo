@@ -1,5 +1,6 @@
 ﻿@using GymManager.Web.Views.Shared.Components.AppMenu;
 
+
 <!doctype html>
 <html lang="en" class="h-100">
 
@@ -63,10 +64,16 @@
                     @await Component.InvokeAsync(typeof(AppMenuViewComponent), new { currentPageName = ViewBag.CurrentPageName })
 
                     @RenderSection("HeaderRight", false)
-                </div>
-                <div>
+
                     @await Html.PartialAsync("_UserName.cshtml")
+
+
                 </div>
+                
+
+
+               
+
             </div>
         </nav>
     </header>
