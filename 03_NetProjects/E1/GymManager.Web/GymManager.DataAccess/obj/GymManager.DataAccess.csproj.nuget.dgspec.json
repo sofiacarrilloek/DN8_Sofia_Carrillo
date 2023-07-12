@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.DataAccess\\GymManager.DataAccess.csproj": {}
+    "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E1\\GymManager.Web\\GymManager.DataAccess\\GymManager.DataAccess.csproj": {}
   },
   "projects": {
-    "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.DataAccess\\GymManager.DataAccess.csproj": {
+    "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E1\\GymManager.Web\\GymManager.DataAccess\\GymManager.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.DataAccess\\GymManager.DataAccess.csproj",
+        "projectUniqueName": "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E1\\GymManager.Web\\GymManager.DataAccess\\GymManager.DataAccess.csproj",
         "projectName": "GymManager.DataAccess",
-        "projectPath": "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.DataAccess\\GymManager.DataAccess.csproj",
+        "projectPath": "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E1\\GymManager.Web\\GymManager.DataAccess\\GymManager.DataAccess.csproj",
         "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-        "outputPath": "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.DataAccess\\obj\\",
+        "outputPath": "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E1\\GymManager.Web\\GymManager.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config",

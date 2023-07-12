@@ -63,11 +63,12 @@
                     @await Component.InvokeAsync(typeof(AppMenuViewComponent), new { currentPageName = ViewBag.CurrentPageName })
 
                     @RenderSection("HeaderRight", false)
-                </div>
-                <div>
+
                     @await Html.PartialAsync("_UserName.cshtml")
                 </div>
-            </div>
+                
+                   
+              </div>
         </nav>
     </header>
 
