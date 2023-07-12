@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\03_NetProjects"
+    "\\03_NetProjects",
+    "\\03_NetProjects\\T5",
+    "\\03_NetProjects\\T6"
   ],
-  "SelectedNode": "\\03_NetProjects",
+  "SelectedNode": "\\03_NetProjects\\T6",
   "PreviewInSolutionExplorer": false
 }
