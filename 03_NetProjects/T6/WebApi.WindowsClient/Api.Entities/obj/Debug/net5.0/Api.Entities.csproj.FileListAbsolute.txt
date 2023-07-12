@@ -1,0 +1,11 @@
+D:\1. PUNTO SINGULAR\Academia\WebApi.WindowsClient\Api.Entities\bin\Debug\net5.0\Api.Entities.deps.json
+D:\1. PUNTO SINGULAR\Academia\WebApi.WindowsClient\Api.Entities\bin\Debug\net5.0\Api.Entities.dll
+D:\1. PUNTO SINGULAR\Academia\WebApi.WindowsClient\Api.Entities\bin\Debug\net5.0\ref\Api.Entities.dll
+D:\1. PUNTO SINGULAR\Academia\WebApi.WindowsClient\Api.Entities\bin\Debug\net5.0\Api.Entities.pdb
+D:\1. PUNTO SINGULAR\Academia\WebApi.WindowsClient\Api.Entities\obj\Debug\net5.0\Api.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. PUNTO SINGULAR\Academia\WebApi.WindowsClient\Api.Entities\obj\Debug\net5.0\Api.Entities.AssemblyInfoInputs.cache
+D:\1. PUNTO SINGULAR\Academia\WebApi.WindowsClient\Api.Entities\obj\Debug\net5.0\Api.Entities.AssemblyInfo.cs
+D:\1. PUNTO SINGULAR\Academia\WebApi.WindowsClient\Api.Entities\obj\Debug\net5.0\Api.Entities.csproj.CoreCompileInputs.cache
+D:\1. PUNTO SINGULAR\Academia\WebApi.WindowsClient\Api.Entities\obj\Debug\net5.0\Api.Entities.dll
+D:\1. PUNTO SINGULAR\Academia\WebApi.WindowsClient\Api.Entities\obj\Debug\net5.0\ref\Api.Entities.dll
+D:\1. PUNTO SINGULAR\Academia\WebApi.WindowsClient\Api.Entities\obj\Debug\net5.0\Api.Entities.pdb
