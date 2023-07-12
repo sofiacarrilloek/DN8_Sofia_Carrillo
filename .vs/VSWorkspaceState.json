@@ -3,8 +3,10 @@
     "",
     "\\03_NetProjects",
     "\\03_NetProjects\\E1",
-    "\\03_NetProjects\\E1\\GymManager.Web"
+    "\\03_NetProjects\\E2",
+    "\\03_NetProjects\\E2\\GymManager.Web",
+    "\\03_NetProjects\\E2\\GymManager.Web\\GymManager.Web"
   ],
-  "SelectedNode": "\\03_NetProjects\\E1\\GymManager.Web\\GymManager.Web.sln",
+  "SelectedNode": "\\03_NetProjects\\E2\\GymManager.Web\\GymManager.Web\\Startup.cs",
   "PreviewInSolutionExplorer": false
 }

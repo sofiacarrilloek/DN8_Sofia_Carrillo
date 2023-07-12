@@ -13,17 +13,17 @@ namespace GymManager.Core.Members
         public int Id { get; set; }
 
         [StringLength(15)]
-        [Required(ErrorMessage ="Debe ingresar el nombre del miembro")]
+        [Required(ErrorMessage = "Debe ingresar el nombre del miembro")]
         public string Name { get; set; }
 
         [StringLength(20)]
         [Required]
         public string LastName { get; set; }
 
-        [BindProperty, DisplayFormat(DataFormatString = "{0:dd-MM-yyyy}", ApplyFormatInEditMode=true)]
+        [BindProperty, DisplayFormat(DataFormatString = "{0:dd-MM-yyyy}", ApplyFormatInEditMode = true)]
         public DateTime BirthDay { get; set; }
 
-        [Range(1,100)]
+        [Range(1, 100)]
         public int CityId { get; set; }
 
         [EmailAddress]

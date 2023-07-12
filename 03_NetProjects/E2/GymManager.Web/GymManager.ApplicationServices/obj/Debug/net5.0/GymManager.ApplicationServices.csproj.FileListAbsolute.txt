@@ -1,30 +1,60 @@
-C:\Users\sofia\source\repos\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.ApplicationServices.deps.json
-C:\Users\sofia\source\repos\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.ApplicationServices.dll
-C:\Users\sofia\source\repos\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\ref\GymManager.ApplicationServices.dll
-C:\Users\sofia\source\repos\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.ApplicationServices.pdb
-C:\Users\sofia\source\repos\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.Core.dll
-C:\Users\sofia\source\repos\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.Core.pdb
-C:\Users\sofia\source\repos\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.csproj.AssemblyReference.cache
-C:\Users\sofia\source\repos\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\sofia\source\repos\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.AssemblyInfoInputs.cache
-C:\Users\sofia\source\repos\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.AssemblyInfo.cs
-C:\Users\sofia\source\repos\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.csproj.CoreCompileInputs.cache
-C:\Users\sofia\source\repos\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.csproj.CopyComplete
-C:\Users\sofia\source\repos\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.dll
-C:\Users\sofia\source\repos\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\ref\GymManager.ApplicationServices.dll
-C:\Users\sofia\source\repos\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.pdb
-D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\03_NetProjects\E2\DN_3.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.ApplicationServices.deps.json
-D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\03_NetProjects\E2\DN_3.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.ApplicationServices.dll
-D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\03_NetProjects\E2\DN_3.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\ref\GymManager.ApplicationServices.dll
-D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\03_NetProjects\E2\DN_3.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.ApplicationServices.pdb
-D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\03_NetProjects\E2\DN_3.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.Core.dll
-D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\03_NetProjects\E2\DN_3.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.Core.pdb
-D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\03_NetProjects\E2\DN_3.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.csproj.AssemblyReference.cache
-D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\03_NetProjects\E2\DN_3.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
-D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\03_NetProjects\E2\DN_3.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.AssemblyInfoInputs.cache
-D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\03_NetProjects\E2\DN_3.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.AssemblyInfo.cs
-D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\03_NetProjects\E2\DN_3.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.csproj.CoreCompileInputs.cache
-D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\03_NetProjects\E2\DN_3.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.csproj.CopyComplete
-D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\03_NetProjects\E2\DN_3.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.dll
-D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\03_NetProjects\E2\DN_3.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\ref\GymManager.ApplicationServices.dll
-D:\1. PUNTO SINGULAR\Academia\DN_Sofia_Carrillo\03_NetProjects\E2\DN_3.4.2_Sofia_Carrillo_v1.0\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.pdb
+D:\1. PUNTO SINGULAR\Academia\Tema 3\T1\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.ApplicationServices.deps.json
+D:\1. PUNTO SINGULAR\Academia\Tema 3\T1\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.ApplicationServices.dll
+D:\1. PUNTO SINGULAR\Academia\Tema 3\T1\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\ref\GymManager.ApplicationServices.dll
+D:\1. PUNTO SINGULAR\Academia\Tema 3\T1\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.ApplicationServices.pdb
+D:\1. PUNTO SINGULAR\Academia\Tema 3\T1\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.Core.dll
+D:\1. PUNTO SINGULAR\Academia\Tema 3\T1\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.Core.pdb
+D:\1. PUNTO SINGULAR\Academia\Tema 3\T1\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.csproj.AssemblyReference.cache
+D:\1. PUNTO SINGULAR\Academia\Tema 3\T1\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. PUNTO SINGULAR\Academia\Tema 3\T1\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.AssemblyInfoInputs.cache
+D:\1. PUNTO SINGULAR\Academia\Tema 3\T1\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.AssemblyInfo.cs
+D:\1. PUNTO SINGULAR\Academia\Tema 3\T1\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.csproj.CoreCompileInputs.cache
+D:\1. PUNTO SINGULAR\Academia\Tema 3\T1\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.csproj.CopyComplete
+D:\1. PUNTO SINGULAR\Academia\Tema 3\T1\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.dll
+D:\1. PUNTO SINGULAR\Academia\Tema 3\T1\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\ref\GymManager.ApplicationServices.dll
+D:\1. PUNTO SINGULAR\Academia\Tema 3\T1\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.pdb
+D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T3\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.ApplicationServices.deps.json
+D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T3\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.ApplicationServices.dll
+D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T3\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\ref\GymManager.ApplicationServices.dll
+D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T3\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.ApplicationServices.pdb
+D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T3\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.Core.dll
+D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T3\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.Core.pdb
+D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T3\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.csproj.AssemblyReference.cache
+D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T3\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T3\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.AssemblyInfoInputs.cache
+D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T3\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.AssemblyInfo.cs
+D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T3\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.csproj.CoreCompileInputs.cache
+D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T3\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.csproj.CopyComplete
+D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T3\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.dll
+D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T3\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\ref\GymManager.ApplicationServices.dll
+D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T3\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.pdb
+D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T4\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.ApplicationServices.deps.json
+D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T4\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.ApplicationServices.dll
+D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T4\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\ref\GymManager.ApplicationServices.dll
+D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T4\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.ApplicationServices.pdb
+D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T4\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.Core.dll
+D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T4\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.Core.pdb
+D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T4\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.csproj.AssemblyReference.cache
+D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T4\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T4\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.AssemblyInfoInputs.cache
+D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T4\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.AssemblyInfo.cs
+D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T4\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.csproj.CoreCompileInputs.cache
+D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T4\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.csproj.CopyComplete
+D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T4\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.dll
+D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T4\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\ref\GymManager.ApplicationServices.dll
+D:\1. PUNTO SINGULAR\repositorio\03_NetProjects\T4\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.pdb
+D:\1. PUNTO SINGULAR\Academia\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.ApplicationServices.deps.json
+D:\1. PUNTO SINGULAR\Academia\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.ApplicationServices.dll
+D:\1. PUNTO SINGULAR\Academia\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\ref\GymManager.ApplicationServices.dll
+D:\1. PUNTO SINGULAR\Academia\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.ApplicationServices.pdb
+D:\1. PUNTO SINGULAR\Academia\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.Core.dll
+D:\1. PUNTO SINGULAR\Academia\GymManager.Web\GymManager.ApplicationServices\bin\Debug\net5.0\GymManager.Core.pdb
+D:\1. PUNTO SINGULAR\Academia\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.csproj.AssemblyReference.cache
+D:\1. PUNTO SINGULAR\Academia\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. PUNTO SINGULAR\Academia\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.AssemblyInfoInputs.cache
+D:\1. PUNTO SINGULAR\Academia\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.AssemblyInfo.cs
+D:\1. PUNTO SINGULAR\Academia\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.csproj.CoreCompileInputs.cache
+D:\1. PUNTO SINGULAR\Academia\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.csproj.CopyComplete
+D:\1. PUNTO SINGULAR\Academia\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.dll
+D:\1. PUNTO SINGULAR\Academia\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\ref\GymManager.ApplicationServices.dll
+D:\1. PUNTO SINGULAR\Academia\GymManager.Web\GymManager.ApplicationServices\obj\Debug\net5.0\GymManager.ApplicationServices.pdb

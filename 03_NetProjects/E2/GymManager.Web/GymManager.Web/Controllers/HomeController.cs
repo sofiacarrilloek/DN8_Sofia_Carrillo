@@ -13,7 +13,7 @@ namespace GymManager.Web.Controllers
         }
         public IActionResult Index()
         {
-            var members = _membersAppServices.GetMembers(); 
+            var members = _membersAppServices.GetMembers();
 
             return View(members);
         }

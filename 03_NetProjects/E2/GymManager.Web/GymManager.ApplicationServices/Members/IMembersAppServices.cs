@@ -9,16 +9,25 @@ namespace GymManager.ApplicationServices.Members
 {
     public interface IMembersAppServices
     {
-        List<Member> GetMembers();
+        private static List<Member> Members = new List<Member>();
 
-        
-        int AddMember(Member member);
+        public int AddMember(Member member)
+        {
+            member.Id = new Random().Next();
+
+            Members.Add(member);
+
+            return member.Id;
+        }
+
+        public List<Member> GetMembers()
+        {
+            return Members;
+        }
 
         void DeleteMember(int memberId);
-
         Member GetMember(int memberId);
 
         void EditMember(Member member);
-
     }
 }

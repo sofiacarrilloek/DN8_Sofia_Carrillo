@@ -1,6 +1,7 @@
 ﻿using GymManager.ApplicationServices.Members;
 using GymManager.Core.Members;
 using GymManager.Web.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -9,10 +10,10 @@ using System.Threading.Tasks;
 
 namespace GymManager.Web.Controllers
 {
+    [Authorize]
     public class MembersController : Controller
     {
         private readonly IMembersAppServices _membersAppServices;
-
         public MembersController(IMembersAppServices membersAppServices)
         {
             _membersAppServices = membersAppServices;
@@ -20,18 +21,19 @@ namespace GymManager.Web.Controllers
 
         public IActionResult Index()
         {
-            List <Member> members = _membersAppServices.GetMembers();
+            List<Member> members = _membersAppServices.GetMembers();
 
             MemberListViewModel viewModel = new MemberListViewModel();
 
             viewModel.NewMembersCount = 2;
             viewModel.Members = members;
 
+
             return View(viewModel);
         }
 
         public IActionResult Create()
-        {           
+        {
             return View();
         }
 
@@ -49,7 +51,7 @@ namespace GymManager.Web.Controllers
 
             return RedirectToAction("Index");
         }
-
+        
         public IActionResult Edit(int memberId)
         {
             Member member = _membersAppServices.GetMember(memberId);
@@ -64,10 +66,10 @@ namespace GymManager.Web.Controllers
 
             return RedirectToAction("Index");
         }
-
         public IActionResult Test()
         {
             return View();
         }
+
     }
 }

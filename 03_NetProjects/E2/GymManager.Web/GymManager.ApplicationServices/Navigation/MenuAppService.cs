@@ -9,33 +9,180 @@ namespace GymManager.ApplicationServices.Navigation
 {
     public class MenuAppService : IMenuAppService
     {
-        /* public List<UserMenuItem> GetMenu()
+         public List<UserMenuItem> GetMenu()
          {
              List<UserMenuItem> menu = new List<UserMenuItem>();
              menu.Add(new UserMenuItem
              {
                  Name = "Home",
+                 DisplayName ="Home",
                  Order = 0,
                  Url = "/"
              });
 
-             menu.Add(new UserMenuItem
-             {
-                 Name = "Administration",
-                 Order = 1,
-                 Url = "#",
-                 Items = new List<UserMenuItem>()
-                 {
-                     new UserMenuItem
-                     {
-                         Name = "Membership"
-                     }
-                 }
-             });
-         }*/
-        public List<UserMenuItem> GetMenu()
+            menu.Add(new UserMenuItem
+            {
+                Name = "Administration",
+                DisplayName = "Administration",
+                Order = 1,
+                Url = "#",
+                Items = new List<UserMenuItem>()
+                {
+                    new UserMenuItem
+                    {
+                        Name = "MembershipTypes",
+                        DisplayName = "Membership Types",
+                        Order = 0,
+                        Url = "/MembershipTypes/"
+                    },
+
+                    new UserMenuItem
+                    {
+                        Name = "InventoryUnits",
+                        DisplayName = "Inventory Units",
+                        Order = 1,
+                        Url = "/InventoryUnits/"
+                    },
+
+                    new UserMenuItem
+                    {
+                        Name = "EquipementTypes",
+                        DisplayName = "Equipement Types",
+                        Order = 2,
+                        Url = "/EquipementTypes/"
+                    },
+                    new UserMenuItem
+                    {
+                        Name = "EquipementInventory",
+                        DisplayName = "Equipement Inventory",
+                        Order = 3,
+                        Url = "/EquipementInventory/"
+                    }
+
+                }
+            });
+
+            menu.Add(new UserMenuItem
         {
-            throw new NotImplementedException();
+            Name = "Store",
+            DisplayName = "Store",
+            Order = 2,
+            Url = "#",
+            Items = new List<UserMenuItem>
+            {
+                new UserMenuItem
+                {
+                    Name = "Shopping",
+                    DisplayName = "Shopping",
+                    Order = 0,
+                    Url = "/Shopping/"
+                },
+                new UserMenuItem
+                {
+                    Name = "ProductInventory",
+                    DisplayName = "Inventory",
+                    Order = 1,
+                    Url = "/ProductInventory/"
+                },
+                new UserMenuItem
+                {
+                    Name = "ProductTypes",
+                    DisplayName = "Products",
+                    Order = 2,
+                    Url = "/ProductTypes /"
+                },
+                new UserMenuItem
+                {
+                    Name = "ProductCategories",
+                    DisplayName = "Categories",
+                    Order = 3,
+                    Url = "/ProductCategories/"
+                }
+            }
+        });
+
+            menu.Add(new UserMenuItem
+        {
+            Name = "Members",
+            DisplayName = "Members",
+            Order = 3,
+            Url = "#",
+            Items = new List<UserMenuItem>()
+            {
+                new UserMenuItem
+                {
+                    Name = "MembersManagement",
+                    DisplayName = "Management",
+                    Order = 0,
+                    Url = "/Members/"
+                },
+                new UserMenuItem
+                {
+                    Name = "MembershipRenewal",
+                    DisplayName = "Membership Renewal",
+                    Order = 1,
+                    Url = "/Members/Renewal"
+                },
+                new UserMenuItem
+                {
+                    Name = "CheckIn",
+                    DisplayName = "CheckIn",
+                    Order = 2,
+                    Url = "/Members/CheckIn"
+                },
+                new UserMenuItem
+                {
+                    Name = "CheckOut",
+                    DisplayName = "CheckOut",
+                    Order = 3,
+                    Url = "/Members/CheckOut"
+                }
+            }
+        });
+
+            menu.Add(new UserMenuItem
+        {
+            Name = "Invoicing",
+            DisplayName = "Invoicing",
+            Order = 4,
+            Url = "/Invoicing"
+        });
+
+            menu.Add(new UserMenuItem
+            {
+            Name = "Reports",
+            DisplayName = "Reports",
+            Order = 5,
+            Url = "#",
+            Items = new List<UserMenuItem>()
+            {
+                new UserMenuItem
+                {
+                    Name = "NewMembersReport",
+                    DisplayName = "New Members",
+                    Order = 0,
+                    Url = "/Reports/NewMembers"
+                },
+                new UserMenuItem
+                {
+                    Name = "AttendanceReport",
+                    DisplayName = "Attendance",
+                    Order = 1,
+                    Url = "/Reports/Attendance"
+                },
+                new UserMenuItem
+                {
+                    Name = "MembershipRenewalReport",
+                    DisplayName = "Membership Renewal",
+                    Order = 2,
+                    Url = "/Reports/MembershipRenewal"
+                }
+            }
+        });
+
+            return menu;
+
         }
+       
     }
 }
