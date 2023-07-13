@@ -1,10 +1,10 @@
-CREATE DEFINER=`root`@`localhost` PROCEDURE `RegisterSales`(in _usersiduser int, _producttypesidprodctypes int)
+DELIMITER //
+CREATE DEFINER=`root`@`localhost` PROCEDURE `RegisterSales`(IN _usersiduser INT, IN _producttypesidprodctypes INT)
 BEGIN
-declare _idsales int;
+    DECLARE _idsales INT;
+    SELECT MAX(idsales)+1 INTO _idsales FROM sales;
 
-select max(idsales)+1 into _idsales from sales;
-
-	INSERT INTO sales(idsales,datesale,producttypes_idproducttypes,users_iduser)
-VALUES(_idsales,now(),_producttypesidprodctypes,_usersiduser);
-
-END
+    INSERT INTO sales(idsales, datesale, producttypes_idproducttypes, users_iduser)
+    VALUES (_idsales, NOW(), _producttypesidprodctypes, _usersiduser);
+END //
+DELIMITER ;//
