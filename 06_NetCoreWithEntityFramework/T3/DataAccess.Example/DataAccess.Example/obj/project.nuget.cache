@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kOA/ideNN0K3Cinr/+uXhRnajZesM9T8VliL5HLWATL/p9sVFslRIf8g3MGNuVomT0ae1w8XFLsYX9DEa/lM0w==",
+  "success": true,
+  "projectFilePath": "D:\\1. PUNTO SINGULAR\\Academia\\DataAccess.Example\\DataAccess.Example\\DataAccess.Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sofia\\.nuget\\packages\\mysqlconnector\\2.2.6\\mysqlconnector.2.2.6.nupkg.sha512",
+    "C:\\Users\\sofia\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\sofia\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
