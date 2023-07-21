@@ -1,0 +1,12 @@
+D:\1. PUNTO SINGULAR\Academia\DataAccess.Example\DataAccess.Example.Core\bin\Debug\net5.0\DataAccess.Example.Core.deps.json
+D:\1. PUNTO SINGULAR\Academia\DataAccess.Example\DataAccess.Example.Core\bin\Debug\net5.0\DataAccess.Example.Core.dll
+D:\1. PUNTO SINGULAR\Academia\DataAccess.Example\DataAccess.Example.Core\bin\Debug\net5.0\ref\DataAccess.Example.Core.dll
+D:\1. PUNTO SINGULAR\Academia\DataAccess.Example\DataAccess.Example.Core\bin\Debug\net5.0\DataAccess.Example.Core.pdb
+D:\1. PUNTO SINGULAR\Academia\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net5.0\DataAccess.Example.Core.csproj.AssemblyReference.cache
+D:\1. PUNTO SINGULAR\Academia\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net5.0\DataAccess.Example.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. PUNTO SINGULAR\Academia\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net5.0\DataAccess.Example.Core.AssemblyInfoInputs.cache
+D:\1. PUNTO SINGULAR\Academia\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net5.0\DataAccess.Example.Core.AssemblyInfo.cs
+D:\1. PUNTO SINGULAR\Academia\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net5.0\DataAccess.Example.Core.csproj.CoreCompileInputs.cache
+D:\1. PUNTO SINGULAR\Academia\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net5.0\DataAccess.Example.Core.dll
+D:\1. PUNTO SINGULAR\Academia\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net5.0\ref\DataAccess.Example.Core.dll
+D:\1. PUNTO SINGULAR\Academia\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net5.0\DataAccess.Example.Core.pdb
