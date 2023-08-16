@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj": {}
+    "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E4\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj": {}
   },
   "projects": {
-    "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.ApplicationServices\\GymManager.ApplicationServices.csproj": {
+    "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E4\\GymManager.Web\\GymManager.ApplicationServices\\GymManager.ApplicationServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.ApplicationServices\\GymManager.ApplicationServices.csproj",
+        "projectUniqueName": "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E4\\GymManager.Web\\GymManager.ApplicationServices\\GymManager.ApplicationServices.csproj",
         "projectName": "GymManager.ApplicationServices",
-        "projectPath": "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.ApplicationServices\\GymManager.ApplicationServices.csproj",
+        "projectPath": "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E4\\GymManager.Web\\GymManager.ApplicationServices\\GymManager.ApplicationServices.csproj",
         "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-        "outputPath": "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.ApplicationServices\\obj\\",
+        "outputPath": "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E4\\GymManager.Web\\GymManager.ApplicationServices\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj": {
-                "projectPath": "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj"
+              "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E4\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj": {
+                "projectPath": "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E4\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj": {
+    "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E4\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj",
+        "projectUniqueName": "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E4\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj",
         "projectName": "GymManager.Core",
-        "projectPath": "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj",
+        "projectPath": "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E4\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj",
         "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-        "outputPath": "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.Core\\obj\\",
+        "outputPath": "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E4\\GymManager.Web\\GymManager.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -122,14 +122,14 @@
         }
       }
     },
-    "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.DataAccess\\GymManager.DataAccess.csproj": {
+    "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E4\\GymManager.Web\\GymManager.DataAccess\\GymManager.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.DataAccess\\GymManager.DataAccess.csproj",
+        "projectUniqueName": "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E4\\GymManager.Web\\GymManager.DataAccess\\GymManager.DataAccess.csproj",
         "projectName": "GymManager.DataAccess",
-        "projectPath": "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.DataAccess\\GymManager.DataAccess.csproj",
+        "projectPath": "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E4\\GymManager.Web\\GymManager.DataAccess\\GymManager.DataAccess.csproj",
         "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-        "outputPath": "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.DataAccess\\obj\\",
+        "outputPath": "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E4\\GymManager.Web\\GymManager.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -186,14 +186,14 @@
         }
       }
     },
-    "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj": {
+    "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E4\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj",
+        "projectUniqueName": "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E4\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj",
         "projectName": "GymManager.Web",
-        "projectPath": "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj",
+        "projectPath": "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E4\\GymManager.Web\\GymManager.Web\\GymManager.Web.csproj",
         "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-        "outputPath": "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.Web\\obj\\",
+        "outputPath": "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E4\\GymManager.Web\\GymManager.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -210,14 +210,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.ApplicationServices\\GymManager.ApplicationServices.csproj": {
-                "projectPath": "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.ApplicationServices\\GymManager.ApplicationServices.csproj"
+              "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E4\\GymManager.Web\\GymManager.ApplicationServices\\GymManager.ApplicationServices.csproj": {
+                "projectPath": "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E4\\GymManager.Web\\GymManager.ApplicationServices\\GymManager.ApplicationServices.csproj"
               },
-              "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj": {
-                "projectPath": "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj"
+              "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E4\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj": {
+                "projectPath": "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E4\\GymManager.Web\\GymManager.Core\\GymManager.Core.csproj"
               },
-              "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.DataAccess\\GymManager.DataAccess.csproj": {
-                "projectPath": "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.DataAccess\\GymManager.DataAccess.csproj"
+              "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E4\\GymManager.Web\\GymManager.DataAccess\\GymManager.DataAccess.csproj": {
+                "projectPath": "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E4\\GymManager.Web\\GymManager.DataAccess\\GymManager.DataAccess.csproj"
               }
             }
           }

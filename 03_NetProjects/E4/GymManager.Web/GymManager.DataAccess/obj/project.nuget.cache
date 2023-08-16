@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4q278Suwb6ZQ7ktAmmlQGvtXETVecO0HgewFPGeR8z3MNvpTNE7/EFWDyv8QcsUqzR/etlq6qhORi4MNKlcRgA==",
+  "dgSpecHash": "mVdwZIyfQtAkkqO9o7/Nt0jEkgpf4Ck3JvsC1fuhuJVNamisIxUaOgNV59pQCFBwTUztxZO0DSugum99xeCedg==",
   "success": true,
-  "projectFilePath": "D:\\1. PUNTO SINGULAR\\Academia\\GymManager.Web\\GymManager.DataAccess\\GymManager.DataAccess.csproj",
+  "projectFilePath": "D:\\1. PUNTO SINGULAR\\repositorio\\DN8_Sofia_Carrillo\\03_NetProjects\\E4\\GymManager.Web\\GymManager.DataAccess\\GymManager.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sofia\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.17\\microsoft.aspnetcore.cryptography.internal.5.0.17.nupkg.sha512",
     "C:\\Users\\sofia\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.17\\microsoft.aspnetcore.cryptography.keyderivation.5.0.17.nupkg.sha512",
