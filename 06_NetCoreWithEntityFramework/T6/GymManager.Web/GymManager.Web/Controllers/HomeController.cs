@@ -15,10 +15,7 @@ namespace GymManager.Web.Controllers
         {
             _membersAppServices = membersAppServices;
         }
-        /* public IActionResult Index()
-         {
-             return View();
-         }*/
+      
 
         public async Task<IActionResult> Index()
         {
@@ -28,7 +25,6 @@ namespace GymManager.Web.Controllers
             viewModel.NewMembersCount = 2;
             viewModel.Members = members;
 
-            // return View(viewModel);
             return View(members);
 
         }

@@ -37,8 +37,10 @@ namespace GymManager.DataAccess.Repositories
         {
             var entity = await _context.FindAsync<TEntity>(id);
             _context.Remove<TEntity>(entity);
+            await _context.SaveChangesAsync();
+
         }
-        
+
         public virtual IQueryable<TEntity> GetAll()
         {
             try

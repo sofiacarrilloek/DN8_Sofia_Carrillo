@@ -17,10 +17,10 @@ namespace GymManager.DataAccess.Repositories
 
         public override async Task<Member>AddAsync(Member entity)
         {
-            var city = await Context.Cities.FindAsync(entity.City.Id);
-            entity.City = null;
+            //var city = await Context.Cities.FindAsync(entity.City.Id);
+           // entity.City = null;
             await Context.Members.AddAsync(entity);
-            city.Members.Add(entity);
+            //city.Members.Add(entity);
          
             await Context.SaveChangesAsync();
 

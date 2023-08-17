@@ -23,16 +23,18 @@ namespace GymManager.Core.Members
         [BindProperty, DisplayFormat(DataFormatString = "{0:dd-MM-yyyy}", ApplyFormatInEditMode = true)]
         public DateTime BirthDay { get; set; }
 
-        [Range(1, 100)]
-        public int CityId { get; set; }
+      //  [Range(1, 100)]
+        //public int CityId { get; set; }
 
         [EmailAddress]
         [Required]
         public string Email { get; set; }
 
         public bool AllowNewsletter { get; set; }
-        public City City { get; set; }
+        //public City City { get; set; }
 
-        //public City City { get; set; } //public int City { get; set; }
+       // public City City { get; set; }
+
+
     }
 }

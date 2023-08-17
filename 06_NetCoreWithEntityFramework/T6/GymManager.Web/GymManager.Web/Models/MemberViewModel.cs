@@ -22,8 +22,9 @@ namespace GymManager.Web.Models
         [BindProperty, DisplayFormat(DataFormatString = "{0:dd-MM-yyyy}", ApplyFormatInEditMode = true)]
         public DateTime BirthDay { get; set; }
 
-        [Range(1, 100)]
-        public int CityId { get; set; }
+       // [Range(1, 100)]
+        //public int CityId { get; set; }
+        
 
         [EmailAddress]
         [Required]
