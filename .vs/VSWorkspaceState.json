@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\06_NetCoreWithEntityFramework",
-    "\\06_NetCoreWithEntityFramework\\T6"
+    "\\06_NetCoreWithEntityFramework"
   ],
-  "SelectedNode": "\\06_NetCoreWithEntityFramework\\T6\\GymManager.Web",
+  "SelectedNode": "\\06_NetCoreWithEntityFramework\\T6",
   "PreviewInSolutionExplorer": false
 }
