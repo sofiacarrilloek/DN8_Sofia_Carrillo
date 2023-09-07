@@ -1,0 +1,93 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+    }
+</style>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Gym Manager</title>
+    <link href="https://localhost:44323/Bootstrap/css/bootstrap.css" rel="stylesheet"/>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .invoice {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+        }
+
+        .header {
+            text-align: center;
+            background-color: #f0f0f0;
+            padding: 10px;
+        }
+
+        .invoice-details {
+            margin-top: 20px;
+        }
+
+            .invoice-details table {
+                width: 100%;
+                border-collapse: collapse;
+            }
+
+            .invoice-details th, .invoice-details td {
+                border: 1px solid #ccc;
+                padding: 8px;
+                text-align: left;
+            }
+
+        .total {
+            margin-top: 20px;
+            text-align: right;
+        }
+    </style>
+</head>
+<body>
+    <div class="invoice">
+        <div class="header">
+            <h1>Factura</h1>
+        </div>
+        <div class="invoice-details">
+            <img src="https://localhost:44323/Bootstrap/Images/GymLogo_2.jpg" width="250" margin-top="10px" margin-bottom="20px"/>
+            <br />
+            <table>
+                <tr>
+                    <th>Descripción</th>
+                    <th>Cantidad</th>
+                    <th>Precio Unitario</th>
+                    <th>Total</th>
+                </tr>
+                <tr>
+                    <td>Producto 1</td>
+                    <td>2</td>
+                    <td>$10.00</td>
+                    <td>$20.00</td>
+                </tr>
+                <tr>
+                    <td>Producto 2</td>
+                    <td>3</td>
+                    <td>$15.00</td>
+                    <td>$45.00</td>
+                </tr>
+            </table>
+        </div>
+        <div class="total">
+            <p>Total: $65.00</p>
+        </div>
+    </div>
+</body>
+</html>
+
